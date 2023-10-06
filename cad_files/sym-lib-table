@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name unRamps-cache)(type Legacy)(uri C:/Users/Andy/Desktop/unRamps/unRamps/unRamps-cache.lib)(options "")(descr ""))
+  (lib (name unRamps-rescue)(type Legacy)(uri ${KIPRJMOD}/unRamps-rescue.lib)(options "")(descr ""))
+)
